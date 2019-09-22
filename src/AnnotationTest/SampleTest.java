@@ -45,7 +45,7 @@ public class SampleTest {
 	@AfterMethod
 	public void aftermethod() {
 		
-	System.out.println("After Method");
+	System.out.println("After Method and Testing hub");
 	}
 	
 	@AfterClass
